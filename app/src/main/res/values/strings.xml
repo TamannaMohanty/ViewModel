@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="click_me">Click Me</string>
+    <string name="clicks">You clicked me : 0 times </string>
+</resources>
